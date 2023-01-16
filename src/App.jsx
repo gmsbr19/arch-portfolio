@@ -1,11 +1,11 @@
-import Header from "./components/Header"
+import Nav from "./components/Nav"
 import Presentation from "./components/Presentation"
 
 function App() {
 
   return (
     <>
-      <Header />
+      <Nav />
       <Presentation />
     </>
   )
