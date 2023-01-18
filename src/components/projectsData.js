@@ -12,7 +12,7 @@ const bjk = {
     id: 2,
     label: "Burj Khalifa",
     category: "arq",
-    imgs: ["src/assets/imgs/burjKhalifa/burj1.jpg", "src/assets/imgs/burjKhalifa/burj2.jpg", "src/assets/imgs/burjKhalifa/burj2.jpg"],
+    imgs: ["src/assets/imgs/burjKhalifa/burj1.jpg", "src/assets/imgs/burjKhalifa/burj2.jpg", "src/assets/imgs/burjKhalifa/burj3.jpg"],
     text: "Burj Khalifa Bin Zayid (em árabe: برج خليفة; \"Torre do Khalifa\"), anteriormente conhecido como Burj Dubai, é um arranha-céu localizado em Dubai, nos Emirados Árabes Unidos, sendo a mais alta estrutura e, consequentemente, o maior arranha-céu já construído pelo ser humano, com 828 metros de altura e 160 andares. Sua construção começou em 21 de setembro de 2004 e foi inaugurado no dia 4 de janeiro de 2010. Foi rebatizado devido ao empréstimo feito por Khalifa bin Zayed al Nahyan, xeque do emirado de Abu Dhabi, depois que este emprestou dez bilhões de dólares para evitar que o emirado de Dubai desse um calote em investidores de uma de suas principais companhias, a Dubai World.\nO edifício faz parte de um complexo comercial e residencial de dois quilômetros quadrados de área chamado Downtown Dubai, localizado ao lado das duas principais avenidas da cidade de Dubai, a Sheikh Zayed Road e a Financial Centre Road (anteriormente conhecida como Doha Street). O arquiteto do edifício é Adrian Smith, que trabalhou com a Skidmore, Owings and Merrill (SOM) até 2006. A empresa de arquitetura e engenharia sediada na cidade estadunidense de Chicago ficou encarregada do projeto arquitetônico do prédio. As primeiras empreiteiras são a Samsung Engineering & Construction, a Besix e a Arabtec. A Turner Construction Company foi escolhida para comandar o projeto."
 }
 
