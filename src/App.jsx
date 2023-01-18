@@ -7,7 +7,7 @@ import { Routes, Route } from "react-router-dom"
 function App() {
 
   return (
-    <div className="d-flex">
+    <div className="d-flex flex-column flex-sm-row vw-100">
       <Nav />
       <Routes>
         <Route path="/" element={<Projetos />} />

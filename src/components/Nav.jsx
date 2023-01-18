@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Nav = () => {
   return (
-    <div className="flex-shrink-0 p-3 bg-white vh-100" style={{ width: "280px" }}>
+    <div className="p-3 bg-white vh-100 d-none d-md-block" style={{ width: "280px" }}>
       <a
         href="/"
         className="d-flex text-center align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom"
