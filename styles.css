@@ -3,6 +3,7 @@ body {
   min-height: -webkit-fill-available;
   box-sizing: border-box;
   user-select: none;
+  font-family: 'Open Sans', sans-serif;
 }
 
 html {
@@ -64,12 +65,23 @@ main {
 .filter button{
   font-size: 14px;
   padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   width: fit-content;
 
   background: none;
-  border: 1px solid;
   border-radius: 32px;
+  transition: all 0.2s;
 }
+.filter button:hover{
+  background-color: #d2f4ea;
+  border: solid 1px #d2f4ea !important;
+}
+.filter button.active{
+  background-color: #d2f4ea;
+  border: solid 1px #d2f4ea !important;
+}
+
 .img-fluid{
   transition: transform 0.6s;
 }

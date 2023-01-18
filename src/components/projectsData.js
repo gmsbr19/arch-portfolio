@@ -1,13 +1,3 @@
-class Project{
-    constructor(id, label, category, mainImg, imgs, text){
-        this.id = id
-        this.label = label
-        this.category = category
-        this.imgs = imgs
-        this.text = text
-    }
-}
-
 export const projects = []
 
 const ggB = {
@@ -37,3 +27,14 @@ const jbc = {
 projects.push(ggB)
 projects.push(bjk)
 projects.push(jbc)
+projects.push(ggB)
+projects.push(bjk)
+projects.push(jbc)
+
+export const filters = []
+
+filters.push({filter: "arq", active: false, text: "Arquitetônicos"})
+filters.push({filter: "ie", active: false, text: "Inst. Especiais"})
+filters.push({filter: "pais", active: false, text: "Paisagismo"})
+filters.push({filter: "int", active: false, text: "Interiores"})
+filters.push({filter: "ref", active: false, text: "Reformas"})
