@@ -2,6 +2,7 @@ body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
   box-sizing: border-box;
+  user-select: none;
 }
 
 html {
@@ -58,4 +59,21 @@ main {
 
 .scrollarea {
   overflow-y: auto;
+}
+
+.filter button{
+  font-size: 14px;
+  padding: 10px;
+  width: fit-content;
+
+  background: none;
+  border: 1px solid;
+  border-radius: 32px;
+}
+.img-fluid{
+  transition: transform 0.6s;
+}
+
+.img-fluid:hover{
+  transform: scale(1.1);
 }
